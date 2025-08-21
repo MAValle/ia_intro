@@ -1,6 +1,8 @@
 # ia_intro
 
-I present a list of R codes for an introductory course in IA, organized by subject area. **Note**: The list does not include course notes and concepts.
+I present a list of R codes for an introductory course in IA, organized by subject area. 
+
+**Note**: The list does not include course notes and concepts.
 
 ### File list
 
